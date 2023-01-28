@@ -1,6 +1,6 @@
 <h1 align=center><strong>Flutuar✈️</strong></h1>
 
-<p align=center>Projeto feito como aprendizado pela rocketseat, com o tema de viajem! </p>
+<p align=center>Projeto feito como aprendizado pela Rocketseat, com o tema de viajem! </p>
 
 <br />
 
